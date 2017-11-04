@@ -17,8 +17,12 @@
     Y = Y0;
 	
     for (int i = 0; i <= steps; i++)
-    {
-        putpixel (X,Y,WHITE);
-        X += Xinc;
-        Y += Yinc;
-    }
+	{
+        
+		putpixel (X,Y,WHITE);
+        
+		X += Xinc;
+        
+		Y += Yinc;
+    
+	}
