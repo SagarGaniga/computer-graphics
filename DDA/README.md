@@ -15,6 +15,7 @@
 6.  Put pixel for each step
     X = X0;
     Y = Y0;
+	
     for (int i = 0; i <= steps; i++)
     {
         putpixel (X,Y,WHITE);
