@@ -42,6 +42,7 @@ int main()
     // Initialize graphics function
     initgraph (&gd, &gm, "");
 
+    //Input values
     int X0 = 2, Y0 = 2, X1 = 140, Y1 = 160;
     DDA(2, 2, 140, 160);
     getch();
