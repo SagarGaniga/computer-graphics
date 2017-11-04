@@ -1,5 +1,15 @@
 # computer-graphics
 
+
+## Prerequisite
+
+1. int gd = DETECT, gm;
+2. initgraph (&gd, &gm, "");
+3. getch(); //at the end
+
+
+## Questions
+
 1. 	An architect wishes to visualize the structure of a building/bungalow/kite. 
 	Write a program using line drawing algorithm (DDA/Bresenham's), to help him to picture the same
 2. 	Draw an hour glass shape/vase/∝/ Ь/ε/ω/ς/~/r/m/?/s / क/ द/ ड/ ट/ ठ figure.
@@ -9,11 +19,6 @@
 6. 	Write a program to implement polygon clipping wrt left/right/top/bottom window edge.
 7. 	Write a program to visualize the color combination for the hut/boat /kite.
 8. 	Write a program to color the areas 
-
-
-
-
-
 9. 	Write a program to simulate fish swimming
 10. A plane taking off at various angles is to be shown to train a set of pilots. Simulate the take off process to help the training.
 11. A teacher wants to explain the solar system to school students. Simulate the demonstration.
