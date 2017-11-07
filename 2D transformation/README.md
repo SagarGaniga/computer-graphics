@@ -32,5 +32,7 @@ double d2r(double d) {
   return (d / 180.0) * ((double) M_PI);
 }
 
+## reflect
+float t[3][3] = {{1,0,0},{0,-1,0},{0,0,1}};
 
 	
