@@ -1,6 +1,6 @@
 # Fish is swimming
 
-## Strps
+## Steps
 
 1. Draw fish
 2. change the x value and y value 
