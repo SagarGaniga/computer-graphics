@@ -8,7 +8,7 @@
 3. getch(); //at the end
 
 
-## Questions
+## Course Walkthrough
 
 1. 	An architect wishes to visualize the structure of a building/bungalow/kite. 
 	Write a program using line drawing algorithm (DDA/Bresenham's), to help him to picture the same
