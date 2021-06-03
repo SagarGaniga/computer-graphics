@@ -1,7 +1,5 @@
 # Computer Graphics
 
-[![HitCount](http://hits.dwyl.io/SagarGaniga/computer-graphics.svg)](http://hits.dwyl.io/SagarGaniga/computer-graphics)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 ## Prerequisite
 
